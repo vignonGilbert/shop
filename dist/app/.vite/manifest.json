@@ -1,0 +1,14 @@
+{
+  "assets/images/unicornbikeImg.jpg": {
+    "file": "assets/unicornbikeImg-oXywOdlb.jpg",
+    "src": "assets/images/unicornbikeImg.jpg"
+  },
+  "src/main.jsx": {
+    "assets": [
+      "assets/unicornbikeImg-oXywOdlb.jpg"
+    ],
+    "file": "assets/main-J7WLg9Sv.js",
+    "isEntry": true,
+    "src": "src/main.jsx"
+  }
+}
